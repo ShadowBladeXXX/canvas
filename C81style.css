@@ -1,0 +1,16 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+}
+
+#drawing{
+border-style: dashed;
+border-color: black;
+border-width: 10px;
+}
